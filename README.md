@@ -25,6 +25,15 @@ To replicate this project, you'll need:
 2. A Make.com account to create the automation.
 3. Access to the Twitter API by creating a Twitter developer account and setting up an application.
 
+Sample: List of contents created in Google Sheets
+
+  <img width="659" alt="Sample Google Sheet" src="https://github.com/Op27/twitter-automation/assets/39921621/c5e8ac8d-f767-4988-898b-0736a989c7c8">
+
+Sample: Scenario applied in Make.com
+
+  <img width="659" alt="Scenario applied for Make com " src="https://github.com/Op27/twitter-automation/assets/39921621/c5376329-0604-4efe-9269-4319cd57f3fa">
+
+
 Detailed steps:
 - [Google Sheets Template](#) (Link to a template or setup guide)
 - [Make.com Automation Setup](#) (Link to detailed setup instructions)
